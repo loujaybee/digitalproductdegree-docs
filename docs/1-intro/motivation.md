@@ -1,12 +1,12 @@
 # Motivation
 
-Just in case you were wondering: Why bother writing The Digital Product Degree?
+The why for Digital Product Degree.
 
-## Reason 1: Because I feel I have to
+## Reason 1: Because I can't not
 
-Many writers talk about writing a book because you have a demon inside of you. This book is my version of that demon.
+Many writers talk about writing a book because you have a demon inside of you. This book is my version of that demon. It's a challenge to the writer to take all the competing ideas that float around in their heads and to get it onto paper in a coherent way. And then to walk away and say "Right, it's there, it's done".
 
-I need to get the idea out on paper to say "Right, it's there, it's done". It's an odd motivation, but it's very compelling.
+In other words: I can't _not_ write it.
 
 ## Reason 2: To help others (and answer questions)
 
@@ -18,36 +18,28 @@ I get asked questions all the time. Questions like:
 * How do I build an app?
 * How did you build that website?
 
+This book will answer these questions.
+
+## Reason 3: To share industry insight
+
+Not only that — but to share insight in how the best technology companies in the world operate and how they:
+
+* Sort the wheat from the chaff when it comes to their product ideas
+* What mindset they have when they approach problems
+* How they structure their teams
+* How they fight the inevitable complexities of building a digital product
+* Communicate and execute on their product vision
+
 And then there's the questions I don't get asked. When I know something and I want to share it. But, unfortunately it doesn't exist.
 
-This book will contain the answers to the questions I get.
+## Reason 4: To align disparate ideas
 
-## Reason 3: To structure my own thoughts
+The industry has expanded massively in recent years. Many ideas, frameworks and methodologies exist: UX, DevOps, Scrum, Agile, XP. These ideas and concepts are often warped, overplayed and made more confusing by the industry.
 
-I love building digital products.
+So this book will tackle what these terms really mean — from a practical standpoint.
 
-So I write a lot on this topic. Writing helps me clear up my own thoughts and solidify ideas that I've had about building digital products.
+## Reason 5: An up-to-date digital degree
 
-## Reason 4: Because I like to read
+Degree's are old hat. They're too slow for the digital economy. Bootcamps do a good job of training technical skills. But what is missing is that holistic understanding of how products are made.
 
-I won't lie, I love reading... and I love digital products.
-
-I have a somewhat perverse goal of reading pretty much every book about digital products.
-
-So, as I go, I'm may as well continue to write up the best bits of what I read.
-
-## Reason 5: To do a better job than a real degree
-
-When I studied for my degree, I yearned for practical insight. I wanted the insight scoop, not theory and history. Things I could use straight away, not things I might use, maybe (probably not).
-
-I want to provide information that's more up to date and more dynamic than a regular degree.
-
-## Reason 6: To be practical and approachable
-
-I love it when I find a book or a resource that explains something to me in a super simple way.
-
-Something that makes me feel super smart, not dumb.
-
-I also think that everyone has a right to an education and I want to lower the barriers to this education as much as possible.
-
-Building digital products should be for everyone. Not just those lucky enough to be able to pay for the education for it.
+This book addresses that. And being online, and open-source it's an incredibly adaptive resource.

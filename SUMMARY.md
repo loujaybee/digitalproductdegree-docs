@@ -1,7 +1,6 @@
 ### Introduction
 
-* [README](README.md)
-* [Intro]()
+* [Intro](README.md)
   * [Motivation](docs/1-intro/motivation.md)
   * [FAQ](docs/1-intro/faq.md)
 
@@ -9,15 +8,17 @@
 
 ### Idea
 
+How to
+
   * [ [TODO] You Are Wrong, But Where?]()
   * [ [TODO] Hypothesis Driven Development ]()
+  * [ [TODO] The Design Sprint ]()
   * Resources
     * [Reading List](docs/2-idea/reading_list.md)
 
 ----
 
 ### Build
-
 
   * [ [TODO] A Building Mindset ]()
     * [ [TODO] An Introduction To Agile ]()
@@ -46,14 +47,15 @@
 
 ### Scale
 
-  * [ [TODO] The Problems Of Scale ]
-    * [ [TODO] What Is DevOps? ]()
-    * [ [TODO] Microservice Architecture ]()
-    * [ [TODO] Continuous Integration ]()
-    * [ [TODO] Continuous Deployment ]()
-  * [ [TODO] Save Time Through Automation ]()
-    * [ [TODO] Testing - Unit, Integration and E2E ]()
-    * [ [TODO] Infrastructure As Code ]()
+  * [ Coaching ](docs/5-scale/coaching.md)
+  * [ [TODO] What Is DevOps? ]()
+  * [ [TODO] Microservice Architecture ]()
+  * [ [TODO] Continuous Integration ]()
+  * [ [TODO] Continuous Deployment ]()
+  * [ [TODO] Tackling Performance ]()
+  * [ [TODO] Containers ]()
+  * [ [TODO] Testing - Unit, Integration and E2E ]()
+  * [ [TODO] Infrastructure As Code ]()
   * Resources
     * [Reading List](docs/5-scale/reading_list.md)
 
