@@ -1,0 +1,3 @@
+## How To Read This Book
+
+I really wanted this book to be easily accessible depending on where you are in the product cycle and the pains you're feeling. For you, it might be relevant to dive in and understand some of the ideas around product scaling right away. If you're new to building products, it might make sense to read from the beginning. Each chapter is designed to be stand alone, so you should be able to dive in at any point.

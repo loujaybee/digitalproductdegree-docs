@@ -1,31 +1,19 @@
 # Digital Product Degree
 
-The Digital Product Degree Project is a free, open-source book.
+The Digital Product Degree Project is a free, open-source book. It's a collection of: Articles, resources and definitions designed to give you all the tools you need to build a digital product.
 
-It's a collection of:
+I started writing this book as I had many questions in my job, as a programmer, of how to build a digital product. When I came to start building my own products (and I slowly started unpeeling everything that goes into this) I started to see just how much goes into building a digital product.
 
-* Resources
-* Definitions
-* Articles
+What was frustrating was that there are _so_ many concepts and ideas some that overlap, some that don't: Scrum, Agile, Devops, Cloud, Architecture, Programming Languages.
 
-On how to build and grow a digital product such as a website, app or webapp.
+And most of the content online was fragmented, or highly technical. It also didn't show me how each concept would blend into the next. A lot goes into building a digital product and it can be really overwhelming, but it doesn't have to be. That's why I set about writing this book.
 
-## About the author
+## How I'm writing it
 
-Lou is a Javascript engineer, writer and consultant passionate about empowering digital product creators with the practical skills they need to build exceptional products, teams and careers.
+Because writing a book takes an incredible amount of time, I'm doing it piece by piece. I'll be bringing in separate articles that I published in different publications around the internet. Eventually this should form some sort of coherent whole. This means that each article should _in theory_ stand entirely on it's own, so you can dive in as you need.
 
-You can find out more about him and his work on his website [www.thedevcoach.co.uk](https://www.thedevcoach.co.uk)
+This might explain why the chapter titles have ✓'s and ✗'s next to them. This just shows me how far that I've got and how much more I've got to do.
 
-## How to use the book
+The goal is at the end to end up with a choppy first book draft. I want to them take this to a publisher and have it turned into a physical product. Once edited etc, it would be nice to redistribute the edited version back online for free.
 
-Depending on your background, experience and interests you may choose to consume the book in a combination of manners. Each chapter / section is designed in isolation and shouldn't require prior knowledge so should stand on it's own.
-
-**Option 1)** Read the book in it's entirety — Either by reading each article in depth, or by skim reading initially to understand the main concepts.
-
-**Option 2)** Use it as a continual reference — When you reach a certain point on the digital product you work on or have built you can use the book to answer your questions relating to your particular stage of growth.
-
-
-## [TODO/DRAFT]
-
-As the project is open source and emergent the content will build slowly over time. In order to avoid confusion, any pages that are unstarted will have the code [TODO] before the title. Any that are in progress will have [DRAFT] before the title. All other pages are 'complete' (or rather, simply free from known errors).
-
+If you're anything like me, a physical copy of a book is considerably more enjoyable than a markdown generated one that you have to read, hunched over your laptop.

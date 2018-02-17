@@ -1,5 +1,5 @@
 
-### Who is this for?
+### Who is Digital Product Degree for?
 
 **Developers / Engineers** — Anyone already making a digital product, who has technology skills but wants to understand how the other parts of the business work
 
@@ -13,7 +13,7 @@ I chose not to call this "Web App Degree" or "App Degree" as the concepts discus
 
 Currently, this is likely to be apps, web apps or even progressive web apps. Wondering the difference? Not a problem, we'll cover that.
 
-### Will it be technical?
+### Is Digital Product Degree technical?
 
 The point of this book is to be completely non-technical. So it can be approached by someone outside of the industry with no prior knowledge.
 

@@ -1,68 +1,73 @@
+
+# Digital Product Degree
+
+-----
+
 ### Introduction
 
-* [Intro](README.md)
-  * [Motivation](docs/1-intro/motivation.md)
-  * [FAQ](docs/1-intro/faq.md)
+* [ ✓ Introduction to Digital Product Degree ](README.md)
+<!-- * [✓ Motivation](docs/1-intro/motivation.md) -->
+* [✓ Book Structure](docs/1-intro/book_structure.md)
+* [✓ How To Read The Book](docs/1-intro/how_to_read_this_book.md)
+* [✓ About The Author — Lou ](docs/1-intro/about_the_author.md)
+* [✓ FAQ](docs/1-intro/faq.md)
 
 ----
 
-### Idea
+### Part I: Idea
 
-How to
-
-  * [ [TODO] You Are Wrong, But Where?]()
-  * [ [TODO] Hypothesis Driven Development ]()
-  * [ [TODO] The Design Sprint ]()
+  * [ ✗ You Are Wrong, But Where?]()
+  * [ ✗ Hypothesis Driven Development ]()
+  * [ ✗ The Design Sprint ]()
   * Resources
-    * [Reading List](docs/2-idea/reading_list.md)
+    * [ ✓ Reading List](docs/2-idea/reading_list.md)
 
 ----
 
-### Build
+### Part II: Build
 
-  * [ [TODO] A Building Mindset ]()
-    * [ [TODO] An Introduction To Agile ]()
-    * [ [TODO] An Introduction To Lean ]()
-    * [ [TODO] An Introduction To Scrum ]()
-    * [ [TODO] Refactoring ]()
-    * [ [TODO] Source Control And Branch ]()
-  * [ [TODO] Keeping The Customer In Mind ]()
-    * [ [TODO] What is UX? ]()
-    * [ [TODO] Leveraging Personas ]()
-    * [ [TODO] Why You Need To User Test ]()
-    * [ [TODO] Anatomy Of A User Story ]()
-  * [ [TODO] Achieving Your Vision ]()
-    * [ [TODO] Creating A Product Backlog ]()
-    * [ [TODO] Using KPIs ]()
-  * [ [TODO] Structuring Your App ]()
-    * [ [TODO] Emergent Architecture ]()
-    * [ [TODO] App's vs Web App's vs PWA's vs Website's ]()
-    * [ [TODO] Databases: SQL vs NoSQL vs Graph ]()
-    * [ [TODO] Understanding SEO ]()
+  * [ ✗ A Building Mindset ]()
+    * [ ✗ An Introduction To Agile ]()
+    * [ ✗ An Introduction To Lean ]()
+    * [ ✗ An Introduction To Scrum ]()
+    * [ ✗ Refactoring ]()
+    * [ ✗ Source Control And Branch ]()
+  * [ ✗ Keeping The Customer In Mind ]()
+    * [ ✗ What is UX? ]()
+    * [ ✗ Leveraging Personas ]()
+    * [ ✗ Why You Need To User Test ]()
+    * [ ✗ Anatomy Of A User Story ]()
+  * [ ✗ Achieving Your Vision ]()
+    * [ ✗ Creating A Product Backlog ]()
+    * [ ✗ Using KPIs ]()
+  * [ ✗ Structuring Your App ]()
+    * [ ✗ Emergent Architecture ]()
+    * [ ✗ App's vs Web App's vs PWA's vs Website's ]()
+    * [ ✗ Databases: SQL vs NoSQL vs Graph ]()
+    * [ ✗ Understanding SEO ]()
   * Resources
-    * [[TODO] User Story Template ]()
-    * [Reading List](docs/3-build/reading_list.md)
+    * [✗ User Story Template ]()
+    * [✓ Reading List](docs/3-build/reading_list.md)
 
 ----
 
-### Scale
+### Part III: Scale
 
-  * [ Coaching ](docs/5-scale/coaching.md)
-  * [ [TODO] What Is DevOps? ]()
-  * [ [TODO] Microservice Architecture ]()
-  * [ [TODO] Continuous Integration ]()
-  * [ [TODO] Continuous Deployment ]()
-  * [ [TODO] Tackling Performance ]()
-  * [ [TODO] Containers ]()
-  * [ [TODO] Testing - Unit, Integration and E2E ]()
-  * [ [TODO] Infrastructure As Code ]()
-  * Resources
-    * [Reading List](docs/5-scale/reading_list.md)
+  * [ ✓ Scale — An Introduction ](docs/5-scale/intro.md)
+  * [ ✓ An Intro To Coaching ](docs/5-scale/coaching.md)
+  * [ ✗ What Is DevOps? ]()
+  * [ ✗ Microservice Architecture ]()
+  * [ ✗ Continuous Integration ]()
+  * [ ✗ Continuous Deployment ]()
+  * [ ✗ Tackling Performance ]()
+  * [ ✗ Containers ]()
+  * [ ✗ Testing - Unit, Integration and E2E ]()
+  * [ ✗ Infrastructure As Code ]()
+  * [ ✓ Reading List](docs/5-scale/reading_list.md)
 
 ----
 
 ### Misc
 
-  * [Feedback & Errata](docs/6-misc/feedback_and_errata.md)
-
-
+  * [ ✓ Contribution](docs/1-intro/contribution.md)
+  * [ ✓ Feedback & Errata](docs/6-misc/feedback_and_errata.md)
