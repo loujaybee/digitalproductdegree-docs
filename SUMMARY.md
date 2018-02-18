@@ -16,54 +16,61 @@
 
 ### Part I: Idea
 
-  * [ ✗ You Are Wrong, But Where?]()
-  * [ ✗ Hypothesis Driven Development ]()
-  * [ ✗ The Design Sprint ]()
-  * Resources
-    * [ ✓ Reading List](docs/2-idea/reading_list.md)
+  * [ ✗ You Are Wrong, But Where? ]()
+  * [ ✗ Stopping Trying To Answer Tomorrow's Question ]()
+  * [ ✗ Don't Hesitate, Learn By Shipping ]()
+  * [ ✓ Resource I — Reading List](docs/2-idea/reading_list.md)
 
 ----
 
 ### Part II: Build
 
-  * [ ✗ A Building Mindset ]()
-    * [ ✗ An Introduction To Agile ]()
-    * [ ✗ An Introduction To Lean ]()
-    * [ ✗ An Introduction To Scrum ]()
-    * [ ✗ Refactoring ]()
-    * [ ✗ Source Control And Branch ]()
-  * [ ✗ Keeping The Customer In Mind ]()
-    * [ ✗ What is UX? ]()
-    * [ ✗ Leveraging Personas ]()
-    * [ ✗ Why You Need To User Test ]()
-    * [ ✗ Anatomy Of A User Story ]()
-  * [ ✗ Achieving Your Vision ]()
+  * [ ✗ The Product Vision ]()
+    * [ ✗ Test Your Idea — Design Sprint ]()
     * [ ✗ Creating A Product Backlog ]()
-    * [ ✗ Using KPIs ]()
-  * [ ✗ Structuring Your App ]()
-    * [ ✗ Emergent Architecture ]()
+    * [ ✗ Creating Personas ]()
+
+  * [ ✗ Enable Your Team ]()
+    * [ ✗ Team Roles — Who Do You Need? ]()
+    * [ ✗ Hiring Programmers ]()
+    * [ ✗ How Skilled Should Your Team Be? ]()
+    * [ ✗ How To Give Your Days Structure ]()
+
+  * [ ✗ Planning An Iteration ]()
+    * [ ✗ Anatomy Of A User Story ]()
+
+  * [ ✗ Technical Setup ]()
+    * [ ✗ Leverage Emergent Architecture ]()
     * [ ✗ App's vs Web App's vs PWA's vs Website's ]()
-    * [ ✗ Databases: SQL vs NoSQL vs Graph ]()
-    * [ ✗ Understanding SEO ]()
-  * Resources
-    * [✗ User Story Template ]()
-    * [✓ Reading List](docs/3-build/reading_list.md)
+    * [ ✗ Testing - Ensuring A Quality Product ]()
+    * [ ✗ Databases: SQL, NoSQL and Graph ]()
+    * [ ✗ What Has SEO Got To Do With It? ]()
+    * [ ✗ Source Control And Branch Strategy (CI/CD) ]()
+
+  * [ ✗ Keeping The Customer In Mind ]()
+    * [ ✗ Why You Need To User Test ]()
+    * [ ✗ Utilising User Experience ]()
+    * [ ✗ Leveraging Personas ]()
+
+  * [ ✓ Resource I — Reading List](docs/3-build/reading_list.md)
+  * [ ✗ Resource II — User Story Template]()
 
 ----
 
 ### Part III: Scale
 
   * [ ✓ Scale — An Introduction ](docs/5-scale/intro.md)
-  * [ ✓ An Intro To Coaching ](docs/5-scale/coaching.md)
-  * [ ✗ What Is DevOps? ]()
-  * [ ✗ Microservice Architecture ]()
-  * [ ✗ Continuous Integration ]()
-  * [ ✗ Continuous Deployment ]()
-  * [ ✗ Tackling Performance ]()
-  * [ ✗ Containers ]()
-  * [ ✗ Testing - Unit, Integration and E2E ]()
-  * [ ✗ Infrastructure As Code ]()
-  * [ ✓ Reading List](docs/5-scale/reading_list.md)
+  * [ ✗ Scale The Team ]()
+    * [ ✓ Learn To Coach ](docs/5-scale/coaching.md)
+    * [ ✗ Team Roles For Larger Teams ]()
+    * [ ✓ Building A Learning Culture ](docs/5-scale/learning_culture.md)
+  * [ ✗ Scale The Product ]()
+    * [ ✗ Keeping A Constant Value Flow ]()
+    * [ ✗ Building Stable Infrastructure ]()
+    * [ ✗ Break Down The Monolith ]()
+    * [ ✗ Is It Time To Containerise? ]()
+    * [ ✗ Treat Infrastructure As Code ]()
+  * [ ✓ Resource I — Reading List](docs/5-scale/reading_list.md)
 
 ----
 
