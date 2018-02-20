@@ -61,6 +61,7 @@
 
   * [ ✓ Scale — An Introduction ](docs/5-scale/intro.md)
   * [ ✗ Scale The Team ]()
+    * [ ✗ Defining And Using KPIs ]()
     * [ ✓ Learn To Coach ](docs/5-scale/coaching.md)
     * [ ✗ Team Roles For Larger Teams ]()
     * [ ✓ Building A Learning Culture ](docs/5-scale/learning_culture.md)
